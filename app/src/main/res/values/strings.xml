@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SelectRadioCheck</string>
+    <string name="nama">Nama :</string>
+    <string name="gender">Gender :</string>
+    <string name="hobi">Hobi :</string>
+    <string name="laki_laki">Laki-Laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="membaca">Membaca</string>
+    <string name="menulis">Menulis</string>
 </resources>
